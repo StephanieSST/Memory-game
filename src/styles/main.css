@@ -78,7 +78,7 @@ h2 {
     content: "";
     position: absolute;
     inset: 0;
-    background-image: url("images.jpg");
+    background: #1e1257;
     transition: 0.25s;
     transform: rotateY(0deg);
     backface-visibility: hidden;
